@@ -1,0 +1,2 @@
+ucid,agent_ldap_id,call_created_on,call_type,incident_id,status_during_thread_entry,incident_created_at,thread_created_at,queue_during_thread_entry,seller_id,centre_name,issue_type,current_issue_type,call_duration,current_status,current_queue,current_partner,evaluator,evaluator_id,sup_id
+6.79E+18,seminacspune.851327,31-07-2017 09:00,INBOUND,IN1707310902330247990,Solved,31-07-2017 09:02,31-07-2017 09:03,SE_Minacs_Pune_L1 Calls,eouerr2dxej4u4ty,MINACS_PNQ,FA Consignment Status,FA Consignment Status,192,Solved,SE_Minacs_Pune_L1 Calls,Minacs Pune,,,MK00102
